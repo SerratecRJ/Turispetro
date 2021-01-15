@@ -1,0 +1,56 @@
+{
+    "atracoes": [
+        {
+            "imagem": "http://www.viagenseandancas.com.br/wp-content/uploads/2012/04/fachada-bohemia-petropolis-rj.jpg",
+            "categoria": "Cervejeiro",
+            "titulo": "Cervejaria Bohemia",
+            "endereco": "Rua Alfredo Pachá",
+            "telefones": "1234567",
+            "descricao": "Lorem ipsum",
+            "latitude": -22.5063572,
+            "longitude": -43.184878,
+            "rating": 4,
+            "acessibilidade": true,
+            "criancas": false
+        },
+        {
+            "imagem": "https://www.infoescola.com/wp-content/uploads/2011/07/Pal%C3%A1cio-Imperial-Petr%C3%B3polis_560959816-1000x667.jpg",
+            "categoria": "Histórico",
+            "titulo": "Museu Imperial",
+            "endereco": "Rua da Imperatriz",
+            "telefones": "2345678",
+            "descricao": "Lorem ipsum",
+            "latitude": -22.5080779,
+            "longitude": -43.1757655,
+            "rating": 5,
+            "acessibilidade": true,
+            "criancas": true
+        },
+        {
+            "imagem": "http://www.viagenseandancas.com.br/wp-content/uploads/2012/04/fachada-bohemia-petropolis-rj.jpg",
+            "categoria": "Dormir",
+            "titulo": "Dormitório Imperial",
+            "endereco": "Rua da Imperatriz",
+            "telefones": "2345678",
+            "descricao": "Lorem ipsum",
+            "latitude": -22.5051119,
+            "longitude": -43.1835593,
+            "rating": 2,
+            "acessibilidade": true,
+            "criancas": true
+        },
+        {
+            "imagem": "http://www.viagenseandancas.com.br/wp-content/uploads/2013/04/catedral-pedro-alcantara-petropolis-frente-t.jpg",
+            "categoria": "Religioso",
+            "titulo": "Catedral Petrópolis",
+            "endereco": "Rua São Pedro Alcântara",
+            "telefones": "2345678",
+            "descricao": "Lorem ipsum",
+            "latitude": -22.505630, 
+            "longitude": -43.179117,
+            "rating": 5,
+            "acessibilidade": true,
+            "criancas": false
+        }
+    ]
+}
